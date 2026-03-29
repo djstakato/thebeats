@@ -1,0 +1,2050 @@
+{
+  "volumes": [
+    {
+      "id": "fromnothing",
+      "songs": [
+        {
+          "artist": "Stakato",
+          "title": "4 Brothers",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - 4 Brothers.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "430",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - 430.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "AAA",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - AAA.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Action Jackson",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Action Jackson.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Akelarre",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Akelarre.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Aquairius",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Aquairius.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Black Heart",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Black Heart.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Blackness",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Blackness.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bossier",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Bossier.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bubbling",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Bubbling.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Buffer",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Buffer.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Can of Heat",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Can of Heat.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dig In",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Dig In.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dr Benson",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Dr Benson.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Extra Sauce",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Extra Sauce.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "God Bless Hip Hop",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - God Bless Hip Hop.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Her Choice",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Her Choice.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "High Price of Fame",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - High Price of Fame.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Home of the Original",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Home of the Original.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hotwind",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Hotwind.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Industry",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Industry.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Intro",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Intro.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "It Makes Know Cents",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - It Makes Know Cents.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "LampChop",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - LampChop.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Lent",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Lent.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Manhatten",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Manhatten.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Margarita",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Margarita.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Michaels Dead",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Michaels Dead.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "No Ads",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - No Ads.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Ohh",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Ohh.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "On and On",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - On and On.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Orange Ice",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Orange Ice.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Papadon",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Papadon.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Pelle",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Pelle.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Peluts",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Peluts.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Phew",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Phew.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Reconcile",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Reconcile.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Regret The Day",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Regret The Day.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Respect Time",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Respect Time.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Skin Flute",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Skin Flute.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Beginning",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - The Beginning.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Last Minute",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - The Last Minute.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Today and Tonight",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Today and Tonight.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Too Many",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Too Many.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Utility",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Utility.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Very Awwsome",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Very Awwsome.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Wake Up",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Wake Up.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Whorible",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Whorible.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Working Out",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Working Out.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Zambuka",
+          "album": "From Nothing",
+          "src": "https://pub-f6d5c15669d94fcda9106a3394eae70d.r2.dev/Stakato - Zambuka.mp3"
+        }
+      ]
+    },
+    {
+      "id": "elbeats",
+      "songs": [
+        {
+          "artist": "Stakato",
+          "title": "AMTWY",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - AMTWY.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Act First",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Act First.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Allegro",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Allegro.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Another Time, Another Place",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Another Time, Another Place.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Back (Slowed)",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Back (Slowed).mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Back",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Back.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Big Baby Sepia",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Big Baby Sepia.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Big Body",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Big Body.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Black is the Colour",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Black is the Colour.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bo",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Bo.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Brave Coast",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Brave Coast.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Can't Remember My Own Name",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Can't Remember My Own Name.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Cantenna",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Cantenna.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Crystal Clear",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Crystal Clear.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Deeper Danger",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Deeper Danger.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Don't Go Home",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Don't Go Home.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Edge Play",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Edge Play.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Embrace The Digital Machine",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Embrace The Digital Machine.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Feel Like Dope",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Feel Like Dope.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "First",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - First.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Fleecy Daddy",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Fleecy Daddy.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Get Satisfied",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Get Satisfied.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Global Dog",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Global Dog.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Golden Round",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Golden Round.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Ha Ha",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Ha Ha.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "He He",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - He He.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Heart On Fire",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Heart On Fire.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hey Rio",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Hey Rio.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "In Your Eyes",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - In Your Eyes.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Its Me",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Its Me.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Know Money",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Know Money.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "La Playa de la Barcelonetta",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - La Playa de la Barcelonetta.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Life Is Good",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Life Is Good.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Liquidator",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Liquidator.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Love Me All Night",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Love Me All Night.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Mangi One",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Mangi One.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Metalic Brush",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Metalic Brush.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Never Going Home",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Never Going Home.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "New York Job",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - New York Job.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Not Working",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Not Working.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Nov 25",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Nov 25.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Optimystic",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Optimystic.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Piktour",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Piktour.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Rumble In Her Jungle",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Rumble In Her Jungle.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Run TM",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Run TM.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Saint Juan",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Saint Juan.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Setup",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Setup.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sherry",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Sherry.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Slow Cook",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Slow Cook.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Some Folks",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Some Folks.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sticky Substance",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Sticky Substance.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Synth Yoo",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Synth Yoo.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Take You",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Take You.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Tatati",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Tatati.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Thunder Alley",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Thunder Alley.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Time Crazy",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Time Crazy.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Under The Stars",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Under The Stars.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Vamos Rapido",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - Vamos Rapido.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "World Without Weapons",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - World Without Weapons.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "You Make Me Feel Brand New",
+          "album": "El Beats",
+          "src": "https://pub-485619aa534947a1984d04393077c9bb.r2.dev/Stakato - You Make Me Feel Brand New.mp3"
+        }
+      ]
+    },
+    {
+      "id": "thesound",
+      "songs": [
+        {
+          "artist": "Pablo",
+          "title": "What U Want",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Pablo - What U Want.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "16 Hours",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - 16 Hours.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "20 Feet",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - 20 Feet.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "36 Nutjob",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - 36 Nutjob.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "After Time",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - After Time.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Alacarta",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Alacarta.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Altruist",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Altruist.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Always Happens Sometimes",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Always Happens Sometimes.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Amafam",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Amafam.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Anything You Can Even Do",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Anything You Can Even Do.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bad Dreams",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Bad Dreams.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Battle Rap",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Battle Rap.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Best of the 90's",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Best of the 90's.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Blacker Black",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Blacker Black.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bonkers",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Bonkers.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Brain Heavy",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Brain Heavy.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dawn of the Rise",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Dawn of the Rise.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Disgruntled",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Disgruntled.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Down For Whatever",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Down For Whatever.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Ebola",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Ebola.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Iz Ha",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Iz Ha.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "LSD in Rome",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - LSD in Rome.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Least Annoying Song",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Least Annoying Song.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Lottoman 649",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Lottoman 649.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Love The Haters",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Love The Haters.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Never Give Up",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Never Give Up.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "New Thing",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - New Thing.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Opassaro",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Opassaro.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Orange Ice",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Orange Ice.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Pretend To Die (Owiny)",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Pretend To Die (Owiny).mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Safe Box",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Safe Box.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sandbank",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Sandbank.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sugar Rush",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Sugar Rush.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Suit Shoes",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Suit Shoes.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Tempo",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Tempo.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Object",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - The Object.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Spell of Paradise",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - The Spell of Paradise.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "This is Not a Joke",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - This is Not a Joke.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Trouble (Version 1)",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Trouble (Version 1).mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "True Highway",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - True Highway.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Waiting For You",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Waiting For You.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Wastebin",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Wastebin.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Where Did The Anger Go",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Where Did The Anger Go.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Yesterdays Beat Battle",
+          "album": "The Sound",
+          "src": "https://pub-11b41696dd314a9382d96fc0c8596e2c.r2.dev/Stakato - Yesterdays Beat Battle.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nowords",
+      "songs": [
+        {
+          "artist": "Anode",
+          "title": "Exhaust",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Anode - Exhaust.mp3"
+        },
+        {
+          "artist": "Anode",
+          "title": "Poppyfields",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Anode - Poppyfields.mp3"
+        },
+        {
+          "artist": "Anode",
+          "title": "Workflow",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Anode - Workflow.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "1 Less",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - 1 Less.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "A New Day Dawning",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - A New Day Dawning.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Are You Eric Satie",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Are You Eric Satie.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bain Marie Toaster",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Bain Marie Toaster.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Ballo",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Ballo.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bodied",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Bodied.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bottom of a Dream",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Bottom of a Dream.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Buster",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Buster.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "CNFRMD",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - CNFRMD.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Check Up",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Check Up.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Curry Curry",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Curry Curry.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "DJ Mafia",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - DJ Mafia.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Danny Boy",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Danny Boy.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dead Presidents",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Dead Presidents.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dirty Old Man",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Dirty Old Man.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Egg Crack",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Egg Crack.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Eighty Nine",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Eighty Nine.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Fausto Caminemos",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Fausto Caminemos.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Film Noir",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Film Noir.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Freedom Cry",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Freedom Cry.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "He's Not Nice Anymore",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - He's Not Nice Anymore.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "In and Out of Love",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - In and Out of Love.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Like You Used To Do",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Like You Used To Do.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Lose Sight",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Lose Sight.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "MRKTNG",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - MRKTNG.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Marseille Contract",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Marseille Contract.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Meditation",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Meditation.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Milestoner",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Milestoner.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Mist",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Mist.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Old Monster",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Old Monster.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Old Projects",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Old Projects.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Pitter Patter",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Pitter Patter.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Queen Genius",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Queen Genius.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Slob Angel",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Slob Angel.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Soft Key Alert",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Soft Key Alert.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Somebody Elses Nostalgia",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Somebody Elses Nostalgia.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sure Bet",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Sure Bet.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Full View",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - The Full View.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Troofully",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Troofully.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Trouble (Version 2)",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Trouble (Version 2).mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Wide Eyes",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Wide Eyes.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "William Foster",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - William Foster.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Wine House",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Wine House.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Woed Out",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Woed Out.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Wont Let You Down",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - Wont Let You Down.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "fidufidufidufi",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - fidufidufidufi.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "mfclothes",
+          "album": "No Words",
+          "src": "https://pub-b2b07d02766b4fb48f23f79a62838118.r2.dev/Stakato - mfclothes.mp3"
+        }
+      ]
+    },
+    {
+      "id": "silence",
+      "songs": [
+        {
+          "artist": "Stakato",
+          "title": "A Time For Me",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - A Time For Me.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "ASI",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - ASI.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Above the Attic",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Above the Attic.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Access",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Access.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Adidasos",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Adidasos.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "All Those Changes",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - All Those Changes.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Ariah",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Ariah.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Baia Baia",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Baia Baia.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bit and Piece",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Bit and Piece.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Blue Walk",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Blue Walk.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Buy That",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Buy That.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Cave",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Cave.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Celebrate My Love",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Celebrate My Love.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Colors",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Colors.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Conflict and Tragedies",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Conflict and Tragedies.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Contructive Critic",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Contructive Critic.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Delivery Bag",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Delivery Bag.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dink In Your Sink",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Dink In Your Sink.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dishwasher",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Dishwasher.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dutch",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Dutch.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Ejected",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Ejected.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Everything is All Right",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Everything is All Right.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Folon",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Folon.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Free Man Dance",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Free Man Dance.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Galaxy Wars",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Galaxy Wars.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hella Drama",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Hella Drama.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "High Price",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - High Price.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "History of Violence",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - History of Violence.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hole Band",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Hole Band.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hot Shot",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Hot Shot.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "I Gave You Everything",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - I Gave You Everything.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "If I Only Knew",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - If I Only Knew.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "It Cometh",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - It Cometh.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Keep Saying Its OK",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Keep Saying Its OK.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Kill or Be Killed",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Kill or Be Killed.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Lazer Bumps",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Lazer Bumps.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Leggy",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Leggy.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Life is Still a Dream",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Life is Still a Dream.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Little Green Guy",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Little Green Guy.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Loosly",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Loosly.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Lost In The Fog",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Lost In The Fog.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Low Temp Long Time",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Low Temp Long Time.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Macro",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Macro.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Madcap-Bulding A Castle",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Madcap-Bulding A Castle.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Make a Creation",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Make a Creation.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Many Faces",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Many Faces.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Me and My Dumb Mind of Mine",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Me and My Dumb Mind of Mine.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Megadon",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Megadon.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Much More Than That",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Much More Than That.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Phase Delay",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Phase Delay.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Promotions",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Promotions.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "RIP U A Part",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - RIP U A Part.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Rassaan",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Rassaan.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Red Eyed Girl",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Red Eyed Girl.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Rising Son",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Rising Son.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Rude Boy Bad Man",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Rude Boy Bad Man.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sad January",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Sad January.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Samu",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Samu.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sandness and Sorrow",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Sandness and Sorrow.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Scrubby Brush",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Scrubby Brush.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Self Regulators",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Self Regulators.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Silver Eagle",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Silver Eagle.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Silverman Helps",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Silverman Helps.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sliver",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Sliver.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "So So Bad",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - So So Bad.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Spanish Moss",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Spanish Moss.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Squad Kill",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Squad Kill.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Stay Home",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Stay Home.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Superfuzz",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Superfuzz.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Surely",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Surely.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Leader The Legend",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - The Leader The Legend.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Way",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - The Way.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Titillate",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Titillate.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Unfollowed",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Unfollowed.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Upside",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Upside.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Vilify",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Vilify.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "What a Wrld",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - What a Wrld.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Whatchadoin",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Whatchadoin.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Whirlwind",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Whirlwind.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Year of the Bat",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Year of the Bat.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Zachi",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Zachi.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Zeyo",
+          "album": "Silence",
+          "src": "https://pub-b655215e744841de9f23df9f12944d94.r2.dev/Stakato - Zeyo.mp3"
+        }
+      ]
+    },
+    {
+      "id": "eatr",
+      "songs": [
+        {
+          "artist": "Stakato",
+          "title": "African Flowers",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - African Flowers.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Any Way You Want It",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Any Way You Want It.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Bad Kids",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Bad Kids.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Brasserie",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Brasserie.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Building a Castle",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Building a Castle.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Chick Man",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Chick Man.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Danz Mother",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Danz Mother.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Dishwasher",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Dishwasher.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Drummy Bass",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Drummy Bass.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "End of It",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - End of It.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Era Send",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Era Send.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Flush Cruisin'",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Flush Cruisin'.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Gentle Woman",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Gentle Woman.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Georgia Peaches",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Georgia Peaches.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hamman",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Hamman.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hot 4 You",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Hot 4 You.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hot New Disco Hit",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Hot New Disco Hit.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hot Seat",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Hot Seat.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Hungarian Woman",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Hungarian Woman.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "I Want To Go Outside",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - I Want To Go Outside.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Infinite System",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Infinite System.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Invisible Mouse",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Invisible Mouse.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "It Cometh",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - It Cometh.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Knocking on the Doors of the Zoo",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Knocking on the Doors of the Zoo.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Know Pressure",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Know Pressure.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Little Things You Do",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Little Things You Do.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Magnitude Transition",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Magnitude Transition.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Me Too",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Me Too.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Mi Lady",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Mi Lady.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Moon Dreaming",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Moon Dreaming.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Mr. Ontario Music",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Mr. Ontario Music.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Mustard Glizzy",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Mustard Glizzy.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Mutt",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Mutt.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Nice and Chill",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Nice and Chill.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "RasAAAn",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - RasAAAn.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Rising Son",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Rising Son.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Scary Growl",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Scary Growl.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "So Sweet",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - So Sweet.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Soliciting Grift",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Soliciting Grift.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Starlink Castle",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Starlink Castle.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Sunshine Cloud Rain Light",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Sunshine Cloud Rain Light.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "The Bear",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - The Bear.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Touchback",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Touchback.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "We Got The Award",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - We Got The Award.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "What a Difference",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - What a Difference.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "When That Day is Here",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - When That Day is Here.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "Wont Be Back",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - Wont Be Back.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "czeckit",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - czeckit.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "drtyfckr",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - drtyfckr.mp3"
+        },
+        {
+          "artist": "Stakato",
+          "title": "fked4eva",
+          "album": "Eatr",
+          "src": "https://pub-af4035fe93174211bd2e1ee0c3680ce9.r2.dev/Stakato - fked4eva.mp3"
+        }
+      ]
+    }
+  ]
+}
