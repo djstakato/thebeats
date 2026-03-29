@@ -4,4 +4,6 @@
 *.aiff
 *.m4a
 *.code-workspace
+generate_json.py
+.gitignore
 audio/
