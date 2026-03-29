@@ -23,10 +23,6 @@ const backToVolumesBtn = document.getElementById("back-to-volumes-btn");
 const heroSection = document.getElementById("hero-section");
 const playerBar = document.querySelector(".player-bar");
 
-if (playerBar) {
-  playerBar.classList.add("player-hidden");
-}
-
 fetch("data/volumes.json")
   .then((response) => response.json())
   .then((json) => {
@@ -77,8 +73,7 @@ function renderCarousel() {
     let translateZ = -Math.abs(diff) * 250;
     let rotateY = diff * -24;
     let scale = diff === 0 ? 1 : Math.max(0.58, 1 - Math.abs(diff) * 0.15);
-    let opacity =
-      Math.abs(diff) > 2 ? 0 : Math.max(0.16, 1 - Math.abs(diff) * 0.26);
+    let opacity = Math.abs(diff) > 2 ? 0 : Math.max(0.16, 1 - Math.abs(diff) * 0.26);
     let blur = Math.abs(diff) * 1.6;
     let zIndex = 100 - Math.abs(diff);
 
@@ -147,11 +142,7 @@ function getCurrentVolume() {
 
 function getCurrentSong() {
   const volume = getCurrentVolume();
-  if (
-    !volume ||
-    currentTrackIndex < 0 ||
-    currentTrackIndex >= volume.songs.length
-  ) {
+  if (!volume || currentTrackIndex < 0 || currentTrackIndex >= volume.songs.length) {
     return null;
   }
   return volume.songs[currentTrackIndex];
@@ -303,9 +294,7 @@ function updateTimeline() {
   durationEl.textContent = formatTime(audio.duration);
 
   if (!isDraggingSeek) {
-    const percent = audio.duration
-      ? (audio.currentTime / audio.duration) * 100
-      : 0;
+    const percent = audio.duration ? (audio.currentTime / audio.duration) * 100 : 0;
     seekBar.value = percent;
   }
 }
@@ -313,7 +302,7 @@ function updateTimeline() {
 function scrollHeroIntoView() {
   heroSection.scrollIntoView({
     behavior: "smooth",
-    block: "start",
+    block: "start"
   });
 }
 
@@ -377,16 +366,12 @@ audio.addEventListener("ended", playNextTrack);
 
 seekBar.addEventListener("input", () => {
   isDraggingSeek = true;
-  const targetTime = audio.duration
-    ? (seekBar.value / 100) * audio.duration
-    : 0;
+  const targetTime = audio.duration ? (seekBar.value / 100) * audio.duration : 0;
   currentTimeEl.textContent = formatTime(targetTime);
 });
 
 seekBar.addEventListener("change", () => {
-  const targetTime = audio.duration
-    ? (seekBar.value / 100) * audio.duration
-    : 0;
+  const targetTime = audio.duration ? (seekBar.value / 100) * audio.duration : 0;
   audio.currentTime = targetTime;
   isDraggingSeek = false;
 });
